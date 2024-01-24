@@ -31,6 +31,10 @@ This repository contains a simple webcam object detection script implemented in 
 - The color range for object detection is specified in the script using HSV values.
 - Modify the \`lower_bound\` and \`upper_bound\` variables to adjust the color range.
 
+<p align="center">
+  <img width="400" height="200" src="https://drive.google.com/uc?id=1rEKbW6g_MxTl4np0cY7ZqnapVAoZxb65" alt="Your Image Alt Text">
+</p>
+
 ## Credits
 - This script was created by me.
 
